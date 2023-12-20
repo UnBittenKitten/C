@@ -1,2 +1,2 @@
 # C
-This is where I'll upload my advances in learning C language.
+This is where I'll upload the most significant things I did when learning how to program.
